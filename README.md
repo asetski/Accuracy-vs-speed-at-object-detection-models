@@ -9,7 +9,7 @@ The following Python libraries were used:
   NumPy for operation on array and matrices,
   Matplotlib for graphical visualization,
   Keras for neural network visualization, 
-  Time for tracking execution time
+  Timeit for tracking execution time
   
 Code implementation is broken into several sections: 
   Data preparation,
